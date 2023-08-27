@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alan Pro Cactus</string>
+
+    <string name="title_home">хона</string>
+    <string name="title_dashboard">Клипҳои видеоӣ</string>
+    <string name="title_notifications">Танзимотҳо</string>
+
+    <string name="alan_pro_cactus">Alan Pro Cactus</string>
+
+    <string name="youtube_txt">Youtube Канал</string>
+    <string name="talk_group_txt">Гурӯҳи гуфтугӯ</string>
+    <string name="telegram_txt">Telegram Канал</string>
+    <string name="tg_bot_txt">Telegram бот</string>
+    <string name="photo_txt">Канали аксҳои Alan Pro Cactus</string>
+
+    <string name="language_txt">Забон</string>
+    <string name="lan_btn">lan_btn</string>
+
+    <string name="close_txt">наздик</string>
+    <string name="exit_txt">Баромадан</string>
+    <string name="exit_mess_txt">Барои эътибор пайдо кардани тағирот шумо бояд ба барнома дубора ворид шавед. Шумо мутмаъин ҳастед?</string>
+
+    <string name="change_language">Забонро иваз кунед</string>
+
+
+    <string name="yes_txt">Бале</string>
+    <string name="no_txt">Не</string>
+    <string name="cancel_txt">Бекор кардан</string>
+    <string name="ok_txt">ДУРУСТ</string>
+    <string name="refresh_txt">Навсозӣ</string>
+
+    <string name="dialog_text">Пайвасти интернет нест! Барои тамошои видеоҳо ба интернет пайваст шавед.\nАгар шумо ба интернет пайваст шуда бошед, Навсозӣ -ро клик кунед.</string>
+    <string name="mode">Режим</string>
+    <string name="night_mode_txt">Реҷаи шабона</string>
+</resources>

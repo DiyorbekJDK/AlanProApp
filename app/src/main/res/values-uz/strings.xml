@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alan Pro Cactus</string>
+
+    <string name="title_home">Uy</string>
+    <string name="title_dashboard">Videolar</string>
+    <string name="title_notifications">Sozlamalar</string>
+
+    <string name="alan_pro_cactus">Alan Pro Cactus</string>
+
+    <string name="youtube_txt">Youtube kanal</string>
+    <string name="talk_group_txt">Suhbat guruhi</string>
+    <string name="telegram_txt">Telegram kanal</string>
+    <string name="tg_bot_txt">Telegram Bot</string>
+    <string name="photo_txt">Alan Pro Cactus kanal rasimlari</string>
+
+    <string name="language_txt">Til</string>
+    <string name="lan_btn">lan_btn</string>
+
+    <string name="close_txt">Yopish</string>
+    <string name="exit_txt">Chiqish</string>
+    <string name="exit_mess_txt">Ozgarishlar kuchga kirishi uchun ilovaga qayta kirishingiz kerak. Ishonchingiz komilmi?</string>
+
+    <string name="change_language">Tilni ozgartirish</string>
+
+
+    <string name="yes_txt">Ha</string>
+    <string name="no_txt">Yoq</string>
+    <string name="cancel_txt">Bekor qilish</string>
+    <string name="ok_txt">Ok</string>
+    <string name="refresh_txt">Yangilash</string>
+
+    <string name="dialog_text">Internet aloqasi yoq! Videolarni tomosha qilish uchun internetga ulaning.\nAgar siz internetga ulangan boʻlsangiz, «Yangilash» tugmasini bosing.</string>
+    <string name="mode">Rejim</string>
+    <string name="night_mode_txt">Kecha rejimi</string>
+</resources>

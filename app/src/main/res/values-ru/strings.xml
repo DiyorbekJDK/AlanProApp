@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alan Pro Cactus</string>
+
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Видео ролики</string>
+    <string name="title_notifications">Настройки</string>
+
+    <string name="alan_pro_cactus">Alan Pro Cactus</string>
+
+    <string name="youtube_txt">Youtube Канал</string>
+    <string name="talk_group_txt">Его группа для общения</string>
+    <string name="telegram_txt">Telegram Канал</string>
+    <string name="tg_bot_txt">Telegram Бот</string>
+    <string name="photo_txt">Фото канала Алан Про Кактус</string>
+
+    <string name="language_txt">Язык</string>
+    <string name="lan_btn">lan_btn</string>
+
+    <string name="close_txt">Закрыть</string>
+    <string name="exit_txt">Выйти</string>
+    <string name="exit_mess_txt">Чтобы изменения вступили в силу, вам необходимо повторно войти в приложение. Вы уверены?</string>
+
+    <string name="change_language">Сменить Язык</string>
+
+
+    <string name="yes_txt">Да</string>
+    <string name="no_txt">Нет</string>
+    <string name="cancel_txt">Отмена</string>
+    <string name="ok_txt">Ок</string>
+    <string name="refresh_txt">Обновить</string>
+
+    <string name="dialog_text">Нет соединения с интернетом! Подключитесь к Интернету, чтобы смотреть ролики.\nЕсли вы подключены к Интернету, нажмите «Обновить».</string>
+    <string name="mode">Режим</string>
+    <string name="night_mode_txt">Ночной режим</string>
+</resources>

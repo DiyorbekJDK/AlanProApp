@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alan Pro Cactus</string>
+
+    <string name="title_home">үй</string>
+    <string name="title_dashboard">Бейне клиптер</string>
+    <string name="title_notifications">Параметрлер</string>
+
+    <string name="alan_pro_cactus">Alan Pro кактусы</string>
+
+    <string name="youtube_txt">Youtube арнасы</string>
+    <string name="talk_group_txt">Әңгімелесу тобы</string>
+    <string name="telegram_txt">Telegram арнасы</string>
+    <string name="tg_bot_txt">Telegram Бот</string>
+    <string name="photo_txt">Alan Pro Cactus фото арнасы</string>
+
+    <string name="language_txt">Тіл</string>
+    <string name="lan_btn">lan_btn</string>
+
+    <string name="close_txt">жабық</string>
+    <string name="exit_txt">Шығу</string>
+    <string name="exit_mess_txt">Өзгерістер күшіне енуі үшін қолданбаға қайта кіруіңіз керек. Сіз сенімдісіз бе?</string>
+
+    <string name="change_language">Тілді өзгерту</string>
+
+
+    <string name="yes_txt">Иә</string>
+    <string name="no_txt">Жоқ</string>
+    <string name="cancel_txt">Болдырмау</string>
+    <string name="ok_txt">ЖАРАЙДЫ МА</string>
+    <string name="refresh_txt">Жаңарту</string>
+
+    <string name="dialog_text">Интернет байланысы жоқ! Бейнелерді көру үшін интернетке қосылыңыз.\nИнтернетке қосылған болсаңыз, Жаңарту түймесін басыңыз.</string>
+    <string name="mode">Режим</string>
+    <string name="night_mode_txt">Түнгі режим</string>
+</resources>
